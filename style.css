@@ -1,0 +1,29 @@
+label {
+    display: block;
+} 
+body {
+    background-color: bisque;
+    text-align: center;
+    margin: 0;
+    font-family: cursive;
+    padding-bottom: 2rem;
+}
+
+h1 {
+    padding-top: 2rem;
+}
+ul {
+    display: inline-block;
+    text-align: left;
+}
+li {
+    padding-top: 2em;
+}
+label {
+    padding: 2px;
+}
+.p {
+    padding-top: 0.5em;
+    padding-bottom: -200rem;
+    margin-top: 0;
+}
