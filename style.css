@@ -20,19 +20,32 @@ body {
 }
 footer {
     margin-bottom: 0;
-    width: 100%;
+    width: 70%;
     background-color: rgb(84, 82, 80);
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     opacity: .9;
+    /*max-width: 700px;*/
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+h2
+{
+    font-size: 25px;
+}
+li
+{
+    font-size: 16px;
 }
 .header {
     text-align: center;
 }
 .author {
+    width: 20%;
     text-align: right;
-    margin-right: 300px;
 }
 hr {
     border-color:rgb(131, 99, 61);            
@@ -41,4 +54,25 @@ hr {
     background-color:rgb(61, 59, 57);
 
     
+}
+.paragraph
+{
+    font-style: italic;
+}
+img
+{
+    text-align: right;
+    width: 20px;
+    margin: auto;
+}
+img, .author
+{
+    display: inline;
+}
+a{
+    color: black;
+}
+a:hover
+{
+    color: brown;
 }
