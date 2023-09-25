@@ -59,15 +59,12 @@ hr {
 {
     font-style: italic;
 }
-img
-{
-    text-align: right;
-    width: 5%;
-    margin: auto;
-}
-img, .author
+
+.author
 {
     display: inline;
+    text-align: center;
+    width: 20%;
 }
 a{
     color: black;
